@@ -14,4 +14,5 @@ USED LANG:HTML,CSS,JAVASCREPT
 
 OUTPUT OF THE TASK:
 
-![backg](https://github.com/user-attachments/assets/1842bb03-3a34-462c-85a0-23dde4a4f186)
+![backg](https://github.com/user-attachments/assets/15251924-2ffa-4332-909b-1e15dcb00977)
+

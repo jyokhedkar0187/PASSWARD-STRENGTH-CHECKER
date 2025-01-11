@@ -14,7 +14,8 @@ USED LANG:HTML,CSS,JAVASCREPT
 
 OUTPUT OF THE TASK:
 
-[index.zip](https://github.com/user-attachments/files/18384734/index.zip)
+![Screenshot 2025-01-11 122607](https://github.com/user-attachments/assets/ebfd3720-a0ff-40f9-9ce3-711bb72035f2)
+
 
 
 

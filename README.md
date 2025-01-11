@@ -14,6 +14,7 @@ USED LANG:HTML,CSS,JAVASCREPT
 
 OUTPUT OF THE TASK:
 
-![z9-min](https://github.com/user-attachments/assets/f1831ae1-28ed-4e23-a428-03fb08656689)
+[index.zip](https://github.com/user-attachments/files/18384734/index.zip)
+
 
 
